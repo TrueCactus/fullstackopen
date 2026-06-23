@@ -1,1 +1,0 @@
-# New note in Single page app diagra
