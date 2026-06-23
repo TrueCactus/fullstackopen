@@ -1,4 +1,4 @@
-# Diagram Exercice 0.4
+# New note diagram 0.4
 
 ```mermaid
 sequenceDiagram
